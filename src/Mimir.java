@@ -14,7 +14,7 @@ public class Mimir {
         String Response10;
         int randomInt;
         randomInt = (int) (Math.random() * 11);
-        Question = "Oh great Mimir tell me my future..... Does Niam like Pickles?";
+        Question = "Oh great Mimir tell me my future..... Will I get a good grade on my parahgraph for history?";
         Response0 = "Yeah defenlitly not happing. Just dont even think about it";
         Response1to3 = "ok lowkey can't tell you. Youll just have to wait and find out";
         Response4to6 = "Yes no yes no yes no yes no. I dont know figure it out your self";
@@ -61,6 +61,12 @@ public class Mimir {
 
 
 
+/*/ New responses
+Response0 = "Yeah defenlitly not happing. Just dont even think about it";
+Response1to3 = "ok lowkey can't tell you. Youll just have to wait and find out";
+Response4to6 = "Yes no yes no yes no yes no. I dont know figure it out your self";
+Response7to9 = "Yess Defitninly but with a twist. That may inculde spinousreses";
+Response10 = "YESS YESS YESS Defitninly  ";/*/
 
 
 

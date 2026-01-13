@@ -1,6 +1,6 @@
 public class Madlib {
     public static void main(String[] args) {
-        System.out.println("Hello world");
+        System.out.println("Hello world,");
         Madlib mystory = new Madlib();
 
     }
