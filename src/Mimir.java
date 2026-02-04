@@ -56,11 +56,6 @@ public class Mimir {
 
 
 
-
-
-
-
-
 /*/ New responses
 Response0 = "Yeah defenlitly not happing. Just dont even think about it";
 Response1to3 = "ok lowkey can't tell you. Youll just have to wait and find out";

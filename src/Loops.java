@@ -5,7 +5,7 @@ public class Loops {
     }//main method
 
        public Loops() {
-        CountDown();
+        CountByThrees();
 
 
            //call counting methods in here
@@ -21,14 +21,14 @@ public class Loops {
 
        public void CountByThrees(){
            for(int y = 3; y <16; y = y +3){
-               System.out.print(y);
+               System.out.print(y+ " ");
            }
 
 
        }
        public void CountDown(){
            for(int z = 10; z>0; z = z -1){
-               System.out.print(z);
+               System.out.print(z+ ", ");
 
            }
            System.out.println("Happy Loop Year");
